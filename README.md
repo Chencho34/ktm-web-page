@@ -1,6 +1,8 @@
 # KTM Web Page
 
-## Project Create With HTML5 & CSS3
+## Project Create With HTML5 & CSS3 (BEM)
+
+In this project, I make use of HTML5 technologies by applying solid semantics to provide a robust structure to the web page. In addition, I use CSS3 with the BEM (Block, Element, Modifier) methodology for stylization through classes, ensuring a visual design consistent and maintainable.
 
 ## Description
 
@@ -16,6 +18,11 @@ This project is based on the design concept inspired by the official KTM website
 
 ## Screenshots
 
+![Texto alternativo](images/ktm-cap-01.png)
+![Texto alternativo](images/ktm-cap-02.png)
+![Texto alternativo](images/ktm-cap-03.png)
+![Texto alternativo](images/ktm-cap-04.png)
+
 ## Install
 * Clone this repository:
 
@@ -23,9 +30,9 @@ This project is based on the design concept inspired by the official KTM website
 git clone https://github.com/Chencho34/ktm-web-page
 ```
 
-* Execute Project:
+## Execute Project:
 
-Open the index.html file in your web browser to view the page. Or run the project with the vscode live server extension
+Open the index.html file in your web browser to view the page. Or run the project with the vscode live server extension.
 
 The page will reload when you make changes.
 
@@ -34,5 +41,5 @@ Developer: Chencho34
 
 ## Implemented technologies.
 
-* HTML5
-* CSS3 With BEM methodology
+* HTML5 Semantic structure for a better understanding of the content.
+* CSS3 BEM methodology for modular and scalable style.

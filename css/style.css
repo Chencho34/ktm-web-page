@@ -43,7 +43,7 @@ body {
   /* height: 100vh; */
   height: calc(100vh);
   background-image: linear-gradient(to top, #0000006e, rgba(67, 67, 67, 0.471)),
-    url("../images/img9.jpg");
+    url("../images/ktm-hero.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
